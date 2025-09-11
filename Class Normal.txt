@@ -1,0 +1,19 @@
+Class Normal
+
+1. Hour : 1
+2. Day of the Week (Weekday): 6
+3. Current Electricity Consumption (Electricity_Consumed): 0.366839
+4. Temperature: 0.701004	
+5. Humidity: 0.362397
+6. Wind Speed: 0.509174
+7. Average Past Consumption (Avg_Past_Consumption):  0.490516
+
+Class Abnormal
+
+1. Hour: 2
+2. Day of the Week (Weekday): 6
+3. Current Electricity Consumption (Electricity_Consumed): 0.893818
+4. Temperature: 0.431739
+5. Humidity: 0.688926
+6. Wind Speed: 0.508038
+7. Average Past Consumption (Avg_Past_Consumption): 0.681099
