@@ -32,7 +32,7 @@ The UI was built with **React.js + Node.js** to simulate user interaction and vi
 ---
 
 ## 📂 Project Structure
-
+---
 📦 Electricity-Anomaly-Detection
 ┣ 📂 ml-model/ # Machine Learning Notebook
 ┃ ┗ 📜 Electricity_Anomaly_Detection.ipynb
@@ -48,13 +48,14 @@ The UI was built with **React.js + Node.js** to simulate user interaction and vi
 ┃
 ┣ 📂 data/ # Dataset files
 ┗ 📜 README.md # Main documentation
+---
 
 
 ---
 
 ## ▶️ Demo
-👉 [Add link to demo video here]  
-*(Upload a short demo to YouTube/Drive and paste the link above)*  
+👉 [(https://drive.google.com/file/d/1ZMigqDMG2U31fwq3D855HUgH_rJ_H2Dt/view?usp=sharing)]
+---
 
 ---
 
@@ -96,11 +97,15 @@ Clear anomaly visualization and interactive interface
 
 ## 👤 Author
 Hager Mahmoud Barkat
+
 🌐 LinkedIn: https://www.linkedin.com/in/hager-barkat-1590b2269/ 
+
 ✉️ hagermahmoudbarkat123@gmail.com
 --
 
 Ahmed Mohammed Ramadan
+
 🌐 LinkedIn: https://www.linkedin.com/in/ahmed-ramadan-27071125a/ 
+
 ✉️ ar1895460@gmail.com
 ---
