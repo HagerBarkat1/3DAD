@@ -54,7 +54,8 @@ The UI was built with **React.js + Node.js** to simulate user interaction and vi
 ---
 
 ## ▶️ Demo
-👉 [(https://drive.google.com/file/d/1ZMigqDMG2U31fwq3D855HUgH_rJ_H2Dt/view?usp=sharing)]
+[![Watch the demo](assets/demo-thumbnail.png)](https://drive.google.com/file/d/1ZMigqDMG2U31fwq3D855HUgH_rJ_H2Dt/view?usp=sharing)
+
 ---
 
 ---
