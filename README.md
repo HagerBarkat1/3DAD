@@ -32,24 +32,27 @@ The UI was built with **React.js + Node.js** to simulate user interaction and vi
 ---
 
 ## 📂 Project Structure
----
-📦 Electricity-Anomaly-Detection
-┣ 📂 ml-model/ # Machine Learning Notebook
-┃ ┗ 📜 Electricity_Anomaly_Detection.ipynb
-┃
-┣ 📂 ui/ # React.js frontend
-┃ ┣ 📂 src/
-┃ ┃ ┣ 📂 pages/ # Login, Signup, Dashboard
-┃ ┃ ┣ 📂 services/ # Mock ML service, auth
-┃ ┃ ┣ 📜 App.js
-┃ ┃ ┗ 📜 index.js
-┃ ┣ 📜 package.json
-┃ ┗ 📜 README.md (UI-specific)
-┃
-┣ 📂 data/ # Dataset files
-┗ 📜 README.md # Main documentation
----
 
+```
+
+📦 Electricity-Anomaly-Detection
+├── 📂 ml-model/                  # Machine Learning Notebook
+│   └── 📜 Electricity\_Anomaly\_Detection.ipynb
+│
+├── 📂 ui/                        # React.js frontend
+│   ├── 📂 src/
+│   │   ├── 📂 pages/              # Login, Signup, Dashboard
+│   │   ├── 📂 services/           # Mock ML service, authentication
+│   │   ├── 📜 App.js
+│   │   └── 📜 index.js
+│   │
+│   ├── 📜 package.json
+│   └── 📜 README.md               # UI-specific documentation
+│
+├── 📂 data/                       # Dataset files
+└── 📜 README.md                   # Main documentation
+
+```
 
 ---
 
