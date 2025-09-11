@@ -70,7 +70,7 @@ The UI was built with **React.js + Node.js** to simulate user interaction and vi
    cd Electricity-Anomaly-Detection/ml-model
 
 2- Open the Jupyter Notebook:
-jupyter notebook Electricity_Anomaly_Detection.ipynb
+jupyter notebook [Electricity_Anomaly_Detection.ipynb](https://drive.google.com/file/d/1xt3NPf7dyZnVOIT5zuk0e0fV1dV7518y/view?usp=sharing)
 
 🔹 Run UI (React.js)
 
